@@ -2,6 +2,8 @@
 
 Made in Unreal Engine 4.27, but should be able to convert to 5.0
 
+Showcased in this video: https://www.youtube.com/watch?v=i4Xmdh1d-go
+
 INSTALL INSTRUCTIONS
 ====================
 1. Install the Voxel Pro Beta LTS branch from https://github.com/VoxelPlugin/VoxelPro
