@@ -1,0 +1,15 @@
+.git
+.vs
+.vscode
+Content
+Intermediate
+Saved
+Script
+Plugins
+Plugins/VoxelPro/BlueprintDocGenerator
+Plugins/VoxelPro/Content
+Plugins/VoxelPro/Doxygen
+Plugins/VoxelPro/Intermediate
+Plugins/VoxelPro/Scripts
+Plugins/VoxelPro/Shaders
+Plugins/VoxelPro/ToolsParser
